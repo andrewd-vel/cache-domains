@@ -51,6 +51,11 @@
 			"domain_files": ["neverwinter.txt"]
 		},
 		{
+			"name": "netbootxyz",
+			"description": "CDN for Netbootxyz",
+			"domain_files": ["netbootxyz.txt"]
+		},
+		{
 			"name": "nintendo",
 			"description": "CDN for Nintendo consoles and download servers",
 			"domain_files": ["nintendo.txt"]
