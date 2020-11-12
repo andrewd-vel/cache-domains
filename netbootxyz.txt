@@ -1,1 +1,2 @@
 boot.netboot.xyz/
+*.netboot.xyz
