@@ -41,6 +41,11 @@
 			"domain_files": ["hirez.txt"]
 		},
 		{
+			"name": "netbootxyz",
+			"description": "CDN for the netbootxyz file",
+			"domain_files": ["netbootxyz.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
