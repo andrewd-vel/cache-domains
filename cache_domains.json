@@ -26,6 +26,11 @@
 			"domain_files": ["daybreak.txt"]
 		},
 		{
+			"name": "debian",
+			"description": "Debian CDN",
+			"domain_files": ["debian.txt"]
+		},
+		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
 			"domain_files": ["epicgames.txt"]
@@ -36,9 +41,19 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "github",
+			"description": "CDN for unencrypted github files",
+			"domain_files": ["github.txt"]
+		},
+		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
+		},
+		{
+			"name": "kali",
+			"description": "CDN for kali",
+			"domain_files": ["kali.txt"]
 		},
 		{
 			"name": "netbootxyz",
