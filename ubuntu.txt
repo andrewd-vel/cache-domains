@@ -2,3 +2,5 @@
 archive.ubuntu.com
 archive.canonical.com
 *.archive.canonical.com
+*.ubuntu.com
+*.*.ubuntu.com
